@@ -5,7 +5,7 @@ public class ContaInvestimento extends ContaBancaria{
     }
 
     public void calcularRendimento(){
-        System.out.println("Calcula o rendimento com base no tipo de investimento.");
+        System.out.println("Calculando o rendimento com base no tipo de investimento.");
     }
 
     public void exibirRendimento() {

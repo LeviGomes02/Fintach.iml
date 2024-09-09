@@ -49,11 +49,6 @@ public class ContaBancaria {
         this.agenciaBancaria = agenciaBancaria;
     }
 
-    public void atualizarInformacoes(String novoTipoConta){
-
-        System.out.println("Alterando informações do tipo da conta: ");
-
-    }
 
     public void historiocoTransacoes(){
 

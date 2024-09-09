@@ -17,6 +17,7 @@ public class Investimentos extends Movimentacao{
         return tipoInvestimento;
     }
 
+
     public void setTipoInvestimento(String tipoInvestimento) {
         this.tipoInvestimento = tipoInvestimento;
     }
